@@ -7,12 +7,12 @@ BUTTON SAVE > for save the valuse in database
 BUTTON PLAY > ON - OFF
 
 ### Contian : 
-1- index.html
-2-final.php 
-connection to database 
-3-sstyle.css
-4-java.js 
-5-background image 
+* index.html
+* final.php 
+  connection to database 
+* sstyle.css
+* java.js 
+* background image 
 
 واجهة تحكم لذراع روبوت يتحكم المستخدم في زاوية المحركات 0 - 180 درجة 
 زر Save 
@@ -32,3 +32,6 @@ connection to database
 قاعدة بيانات لتشغيل الاذرع تحتوي على عامودين 
 (id , ON/OFF)
 
+### Interface : 
+
+![](interface.png)
