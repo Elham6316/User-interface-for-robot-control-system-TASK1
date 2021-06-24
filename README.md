@@ -6,13 +6,12 @@ choose angle for each motor
 BUTTON SAVE > for save the valuse in database 
 BUTTON PLAY > ON - OFF
 
-### Contian : 
-* index.html
-* final.php 
-  connection to database 
-* sstyle.css
-* java.js 
-* background image 
+### File : 
+* [index.html](index.html)
+* [final.php](final.php)
+* [sstyle.css](sstyle.css)
+* [java.js ](java.js)
+* [robotarm.jpg](robotarm.jpg) 
 
 واجهة تحكم لذراع روبوت يتحكم المستخدم في زاوية المحركات 0 - 180 درجة 
 زر Save 
